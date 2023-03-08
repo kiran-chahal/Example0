@@ -13,6 +13,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
+//remote
 //home branch0
 //intelliJ
 public class ControlRectangle extends Application {
